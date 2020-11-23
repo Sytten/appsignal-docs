@@ -305,6 +305,9 @@ sections:
                 name: "Tagging and Sample Data"
                 link: "/ruby/instrumentation/tagging.html"
               -
+                name: "Breadcrumbs"
+                link: "/ruby/instrumentation/breadcrumbs.html"
+              -
                 name: "Ignore instrumentation"
                 link: "/ruby/instrumentation/ignore-instrumentation.html"
               -
